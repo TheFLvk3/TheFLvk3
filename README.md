@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheFLvk3
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate with game developing softwares
+- 💞️ I’m looking to collaborate with game developers
 - 📫 How to reach me (You can't)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like computer science
